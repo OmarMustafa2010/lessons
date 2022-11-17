@@ -1,2 +1,6 @@
+Komputerdeki deyisiklikleri github.com saytina gondermek ucun asagidakilar edilmelidir.
+
 1. git status (statusu yoxlamaq ucun yazilan emr)
 2. git add . (deyisiklikleri staging'e elave edir)
+3. git commit -m "Burada etdiyin isler haqqinda qisa melumat yaz"
+4. git push
