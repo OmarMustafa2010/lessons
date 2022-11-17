@@ -4,3 +4,10 @@ Komputerdeki deyisiklikleri github.com saytina gondermek ucun asagidakilar edilm
 2. git add . (deyisiklikleri staging'e elave edir)
 3. git commit -m "Burada etdiyin isler haqqinda qisa melumat yaz"
 4. git push
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+github.com saytindaki deyisiklikleri oz komputerine cekmek ucun asagidakilar edilmelidir.
+
+1. git pull
