@@ -1,0 +1,2 @@
+1. git status (statusu yoxlamaq ucun yazilan emr)
+2. git add . (deyisiklikleri staging'e elave edir)
