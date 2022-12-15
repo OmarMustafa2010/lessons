@@ -31,6 +31,9 @@ namespace Homework
             var pension = Console.ReadLine();
 
             Console.ReadLine();
+
+
+
         }
     }
 }
