@@ -1,7 +1,0 @@
-C:\Users\Admin\Desktop\lessons\Noyabr\24\OmersFirstProject\OmersFirstProject\bin\Debug\OmersFirstProject.exe.config
-C:\Users\Admin\Desktop\lessons\Noyabr\24\OmersFirstProject\OmersFirstProject\bin\Debug\OmersFirstProject.exe
-C:\Users\Admin\Desktop\lessons\Noyabr\24\OmersFirstProject\OmersFirstProject\bin\Debug\OmersFirstProject.pdb
-C:\Users\Admin\Desktop\lessons\Noyabr\24\OmersFirstProject\OmersFirstProject\obj\Debug\OmersFirstProject.csprojAssemblyReference.cache
-C:\Users\Admin\Desktop\lessons\Noyabr\24\OmersFirstProject\OmersFirstProject\obj\Debug\OmersFirstProject.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\lessons\Noyabr\24\OmersFirstProject\OmersFirstProject\obj\Debug\OmersFirstProject.exe
-C:\Users\Admin\Desktop\lessons\Noyabr\24\OmersFirstProject\OmersFirstProject\obj\Debug\OmersFirstProject.pdb
